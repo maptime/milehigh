@@ -1,10 +1,9 @@
-baseurl: /starter
+baseurl: /milehigh
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: milehigh
 github_org: maptime
 maptime:
-  chapter: Meetup name
-  twitter: YourName
-  #disqus: YOUR DISQUS USERNAME
+  chapter: MaptimeMileHigh
+  twitter: maptimemilehigh
