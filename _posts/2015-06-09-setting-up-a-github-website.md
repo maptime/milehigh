@@ -16,5 +16,3 @@ Second Floor Conference Room
 475 17th Street  
 Denver, CO 80202  
 
-Time:  
-6PM - 8PM
