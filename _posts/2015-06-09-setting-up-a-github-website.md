@@ -1,9 +1,9 @@
 ---
 category: event
-date: Tuesday, April 21, 2015
+date: Tuesday, June 9, 2015
 layout: event
-rsvp: https://eventbrite.com/event/16570503823/
-title: "April Maptime: Setting Up a GitHub Website"
+rsvp: https://www.eventbrite.com/e/maptime-mile-high-tickets-17080936541
+title: "June Maptime: Setting Up a GitHub Website"
 ---
 
 Dave Metzler will walk us through setting up a new (free!) website on GitHub using [GitHub Pages](https://pages.github.com/).
