@@ -10,8 +10,10 @@ Are you ever just overwhelmed by web mapping terminology? Do you often feel like
 
 Join us on Thursday, January 7th at CU Denver's Auraria Campus. We'll meet from 6-8pm in a building called "North Classroom" on the third floor, room NC 3015. Here are some helpful maps to get you there.
 
-Name your terms! If there's a particular web mapping term that you'd like to discuss, let us know in the comments section of this meetup event.
+Name your terms! If there's a particular web mapping term that you'd like to discuss, let us know! If you have knowledge, add it to the doc!
+
+- Contribute Here: [Web Mapping Terminology Shared Doc](https://docs.google.com/document/d/1pjrX7F3w9X1987aAtSvR88aa_UM9YnMfxmr5qDUi6Pc/edit?usp=sharing)
 
 We'll have a some pizza and refreshments to enjoy while we chat. Remember, newcomers are always welcome, and don't forget to bring a laptop!
 
-**Seeking Sponsorship:** If you know any individual or business interested in sponsoring a Maptime let us know! Sponsoring a meetup event simply means covering food and beverages or offering a space for free. If you have any leads, email maptimemilehigh@gmail.com. Thanks! 
+**Seeking Sponsorship:** If you know any individual or business interested in sponsoring a Maptime let us know! Sponsoring a meetup event simply means covering food and beverages or offering a space for free. If you have any leads, email maptimemilehigh@gmail.com. Thanks!
