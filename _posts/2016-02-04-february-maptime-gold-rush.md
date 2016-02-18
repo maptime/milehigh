@@ -21,3 +21,5 @@ Wes fell in love with maps at age 16 using U.S. Geological Survey maps for climb
 --
 
 We'll have a some pizza and refreshments to enjoy while we listen to this great talk and chat about it afterwards. Remember, newcomers are always welcome!
+
+Check out the [Rocky Mountain Map Society](http://rmmaps.org/). If you're into historic maps, joing their group too!
