@@ -1,8 +1,8 @@
 ---
 category: event
-date: Thursday, March 10, 2016
+date: Thursday, Mar 10, 2016
 layout: event
-rsvp: http://www.meetup.com/MaptimeMileHigh/
+rsvp: http://www.meetup.com/MaptimeMileHigh/events/228941343/
 title: "March Maptime: Intro to OpenStreetMap w/ Founder Steve Coast"
 ---
 
