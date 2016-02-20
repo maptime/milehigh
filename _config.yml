@@ -1,6 +1,7 @@
 baseurl: /milehigh
 permalink: pretty
 markdown: kramdown
+future: true
 paginate: 5
 repo: milehigh
 github_org: maptime
