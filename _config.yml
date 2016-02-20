@@ -1,4 +1,5 @@
 baseurl: /milehigh
+future: true
 permalink: pretty
 markdown: kramdown
 paginate: 5
