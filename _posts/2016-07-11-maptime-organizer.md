@@ -7,6 +7,8 @@ image: ./img/maptime-organizer.png
 
 Do you love maps? Do you love working with others? Do you love building open learning communities? Do you live in the greater Denver metro area? If so, Maptime MileHigh wants *YOU* to become an organizer!
 
+<img src="./img/maptime-organizer" alt="Maptime organizer image" width="100%">
+
 One of our three organizers, Taylor Long, is stepping back to make time for the arrival of his first child. Organizers [Rachel Stevenson](https://twitter.com/uudreams) and [Ricardo Oliveira](https://twitter.com/roliveiraGIS) are looking for a new organizer (or two) to bring us back to a full-powered team.
 
 ### What's involved?
@@ -25,9 +27,11 @@ Becoming an organizer is an informal process – simply send us a brief statemen
 2. Why do you want to be a Maptime MileHigh organizer?
 3. Do you have any ideas for Maptime MileHigh?
 
+
 **Please send us your statement to [maptimemilehigh@gmail.com](mailto:maptimemilehigh@gmail.com) ASAP (and no later than July 31st).** We'll accept organizers on a rolling basis, so don't delay!
 
 If you have any questions, feel free to [email us](mailto:maptimemilehigh@gmail.com) or tweet at us:
+
 - Taylor: [@mtaylorlong](https://twitter.com/mtaylorlong)
 - Rachel: [@uudreams](https://twitter.com/uudreams)
 - Ricardo: [@roliveiraGIS](https://twitter.com/roliveiraGIS)
